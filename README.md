@@ -19,7 +19,7 @@ git clone https://github.com/shreyanshkuls/CS310-pintos.git
 
 * If you want to directly clone the `configured` branch only, use the command bellow and directly skip to [Build](#build).
 ```
-git -b configured --single-branch clone https://github.com/shreyanshkuls/CS310-pintos.git
+git clone --single-branch --branch configured https://github.com/shreyanshkuls/CS310-pintos.git
 ```
 
 ## Configure
